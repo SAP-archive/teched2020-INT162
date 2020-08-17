@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# INT162 - No-Code Academy: Learn to Build Process Extensions Without Code
 
 ## Description
 
