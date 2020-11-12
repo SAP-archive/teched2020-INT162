@@ -2,11 +2,11 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the material for the SAP TechEd 2020 session called INT162 - No-Code Academy: Learn to Build Process Extensions Without Code
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to using SAP Ruum as a 
 
 ## Requirements
 
