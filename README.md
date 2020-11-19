@@ -6,36 +6,28 @@ This repository contains the material for the SAP TechEd 2020 session called INT
 
 ## Overview
 
-This session introduces attendees to how to build, run, and monitor SAP process extentions without using a single line of code. This is based around an example Investment Request Process, in which a request form is submitted to controlling teams, who are then able to directly raise a purchase order in a dummy connected system (such as S4 HANA)
+This session introduces attendees to how to build, run, and monitor SAP process extentions without using a single line of code. 
+
+This is based around creating and publishing an example investment request process template in SAP Ruum. This template consists of:
+- An investment request form
+- A finacial controlling review
+- A facilities review
+- A financial approval 
+- A connected system (from which a purchase order is raised)
+
+While being familiar with an investment request process is beneficial, you can still complete this workshop without any prior knowledge.
 
 ## Requirements
 
+No development experience is required to successfully participate in this workshop.
 
+SAP Ruum product access will be provided to all participants during the live session (with access removed after 7 days). 
+
+Unfortunately we do not offer SAP Ruum product access if you are viewing this session on-demand. If you are interested in attend a re-run of this workshop, complete with temporary product access, please contact ruum@sap.com. 
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder.
+ADD A LINK TO A PDF DOCUMENT HERE 
 
 ## How to obtain support
 
