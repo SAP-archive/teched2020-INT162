@@ -27,9 +27,7 @@ Unfortunately we do not offer SAP Ruum product access if you are viewing this se
 
 ## Exercises
 
-The exercises can be found in the following PDF:
-
-https://github.com/SAP-samples/teched2020-INT162/blob/main/INT162%20-%20No-Code%20Academy%20Exercises.pdf
+The exercises can be found [here](INT162%20-%20No-Code%20Academy%20Exercises.pdf).
 
 ## How to obtain support
 
