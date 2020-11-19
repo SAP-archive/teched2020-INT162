@@ -6,11 +6,11 @@ This repository contains the material for the SAP TechEd 2020 session called INT
 
 ## Overview
 
-This session introduces attendees to how to build, run, and monitor SAP process extentions without using a single line of code. 
+This session introduces attendees to how to build, run, and monitor SAP process extensions without using a single line of code. 
 
 This is based around creating and publishing an example investment request process template in SAP Ruum. This template consists of:
 - An investment request form
-- A finacial controlling review
+- A financial controlling review
 - A facilities review
 - A financial approval 
 - A connected system (from which a purchase order is raised)
