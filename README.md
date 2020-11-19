@@ -6,11 +6,11 @@ This repository contains the material for the SAP TechEd 2020 session called INT
 
 ## Overview
 
-This session introduces attendees to using SAP Ruum as a 
+This session introduces attendees to how to build, run, and monitor SAP process extentions without using a single line of code. This is based around an example Investment Request Process, in which a request form is submitted to controlling teams, who are then able to directly raise a purchase order in a dummy connected system (such as S4 HANA)
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+
 
 ## Exercises
 
